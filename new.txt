@@ -1,0 +1,1 @@
+Feature branch дээрээс new.txt нэмлээ
