@@ -1,2 +1,2 @@
 Feature branch дээрээс new.txt нэмлээ
-Backend дээр нь NodeJS, Laravel admin tald ашиглая
+Backend дээр нь NodeJS, Laravel admin tald ашиглаяnext.js iig ashiglaj static site hiivel deer bishuu
