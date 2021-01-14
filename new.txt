@@ -1,2 +1,2 @@
 Feature branch дээрээс new.txt нэмлээ
-Backend дээр нь Laravel ашиглая
+Backend дээр нь NodeJS, Laravel admin tald ашиглая
